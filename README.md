@@ -1,5 +1,7 @@
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yean77&show_icons=true&theme=radical)
+
+[![Yean77's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yean77)]
+
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seon_7)](https://solved.ac/seon_7/)
 **Yean77/Yean77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
